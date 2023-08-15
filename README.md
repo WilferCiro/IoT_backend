@@ -27,8 +27,8 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
 ```bash
-  git clone https://github.com/WilferCiro/sales_dashboard_backend.git
-  cd sales_dashboard_backend
+  git clone https://github.com/WilferCiro/IoT_backend.git
+  cd IoT_backend
 ```
 
 2. Install the dependencies:
@@ -55,6 +55,10 @@ SENDGRID_USER=
 SENDGRID_EMAIL=
 
 PORT=5000
+
+AWS_REGION=us-east-2
+AWS_TIMESTREAM_ACCESSKEY=
+AWS_TIMESTREAM_SECRETACCESSKEY=
 ```
 
 4. Start the application:
@@ -84,6 +88,6 @@ For any questions or inquiries, please contact [wilcirom@gmail.com](mailto:wilci
 
 ## All repositories for this project:
 
-- [Sales backend](https://github.com/WilferCiro/sales_backend.git)
-- [Sales dashboard backend](https://github.com/WilferCiro/sales_dashboard_backend.git)
-- [Sales frontend](https://github.com/WilferCiro/sales_frontend.git)
+- [Backend](https://github.com/WilferCiro/IoT_backend)
+- [Microcontroller](https://github.com/WilferCiro/IoT_microcontroller)
+- [Frontend](https://github.com/WilferCiro/IoT_frontEnd)
